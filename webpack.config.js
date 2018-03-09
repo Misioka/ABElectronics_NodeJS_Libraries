@@ -6,7 +6,7 @@ var WebpackCleanupPlugin = require('webpack-cleanup-plugin');
 
 module.exports = {
   entry: [
-    './index.js',
+    './lib/index.js',
   ],
   output: {
     publicPath: './',
