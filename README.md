@@ -6,7 +6,7 @@ Node.js Class Libraries and demo code to work with Raspberry Pi expansion boards
 To download to your Raspberry Pi type in terminal: 
 
 ```
-git clone https://github.com/abelectronicsuk/ABElectronics_NodeJS_Libraries.git
+git clone https://github.com/Misioka/ABElectronics_NodeJS_Libraries.git
 ```
 
 ### ADCDAC Pi
