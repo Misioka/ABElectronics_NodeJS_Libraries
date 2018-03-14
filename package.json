@@ -6,7 +6,7 @@
     "build": "babel lib --plugins=transform-runtime,transform-class-properties --presets babel-preset-es2015 --out-dir dist"
   },
   "dependencies": {
-    "rpio": "^0.9.20"
+    "rpio": "https://github.com/Misioka/node-rpio"
   },
   "devDependencies": {
     "ajv": "^5.2.2",
