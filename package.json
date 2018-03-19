@@ -1,13 +1,11 @@
 {
   "name": "RpiPlus",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel lib --plugins=transform-runtime,transform-class-properties --presets babel-preset-es2015 --out-dir dist"
   },
-  "dependencies": {
-    "rpio": "https://github.com/Misioka/node-rpio"
-  },
+  "dependencies": {},
   "devDependencies": {
     "ajv": "^5.2.2",
     "babel-cli": "6",
